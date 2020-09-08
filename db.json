@@ -15,12 +15,61 @@
     {
       "id": 1,
       "title": "todo1",
-      "userId": 1
+      "userId": 1,
+      "status": "todo"
     },
     {
       "id": 2,
       "title": "toto for user 2",
       "userId": 2
+    },
+    {
+      "id": 3,
+      "title": "todo2",
+      "userId": 1,
+      "status": "todo"
+    },
+    {
+      "id": 4,
+      "title": "todo3",
+      "userId": 1,
+      "status": "todo"
+    },
+    {
+      "id": 5,
+      "title": "todo4",
+      "userId": 1,
+      "status": "todo"
+    },
+    {
+      "id": 6,
+      "title": "todo5",
+      "userId": 1,
+      "status": "in-progress"
+    },
+    {
+      "id": 7,
+      "title": "todo6",
+      "userId": 1,
+      "status": "in-progress"
+    },
+    {
+      "id": 8,
+      "title": "todo7",
+      "userId": 1,
+      "status": "done"
+    },
+    {
+      "id": 9,
+      "title": "todo8",
+      "userId": 1,
+      "status": "done"
+    },
+    {
+      "id": 10,
+      "title": "todo9",
+      "userId": 1,
+      "status": "done"
     }
   ]
 }
